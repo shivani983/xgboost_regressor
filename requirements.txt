@@ -6,3 +6,5 @@ joblib
 plotly
 datetime
 xgboost
+scikit-learn
+
