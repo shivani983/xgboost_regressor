@@ -8,7 +8,7 @@ import plotly.express as px
 
 data_frame = pd.read_csv("tsla_raw_data.csv")
 data_frame.dropna(inplace=True)
-feature_names = data_frame.columns.tolist
+feature_names = data_frame.columns.tolist()
 
 
 
